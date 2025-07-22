@@ -41,7 +41,6 @@ Mas não é só isso que eu sei 😜, desde o ensino médio tenho familiaridade 
 - ❓ Qualquer coisa me chama lá no meu LinkedIn! 
 
 
-
 </td><td valign="top" width="50%">
 
 <div align="center">
