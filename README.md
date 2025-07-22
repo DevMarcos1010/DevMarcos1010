@@ -43,7 +43,7 @@ Mas não é só isso que eu sei 😜, desde o ensino médio tenho familiaridade 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://octodex.github.com/images/Fintechtocat.png" align="center" style="width: 100%" />
+<img src="https://octodex.github.com/images/Fintechtocat.png" align="center" style="width: 50%" />
 </div>  
 
 
