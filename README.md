@@ -27,6 +27,8 @@ Mas não é só isso que eu sei 😜, desde o ensino médio tenho familiaridade 
 ## Resumindo:  
 <br/>  
 <table border="0px"><tr><td valign="top" width="50%">
+
+
 - 🔭  Fazendo o "Google Cybersecurity Course"  
   
 
