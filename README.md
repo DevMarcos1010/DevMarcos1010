@@ -29,10 +29,10 @@ Mas não é só isso que eu sei 😜, desde o ensino médio tenho familiaridade 
 <table border="0px"><tr><td valign="top" width="50%">
 
 
-- 🔭  Fazendo o "Google Cybersecurity Course"  
+- 🔭  Google Cybesecurity Course 
   
 
-- 🌱 Atualmente também aprimorando meus conhecimentos em Git e Github  
+- 🌱 Atualmente expandindo meus conhecimentos em Segurança da Informação com projetos práticos 
   
 
 - ⚡ Fera de Ciências da Computação UFPB - 2025.2  
