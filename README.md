@@ -19,7 +19,7 @@ Sou um entusiasta de programação, tecnologia e matemática. Qualquer desafio �
 
 Fui aprovado na UFPB para o ano letivo 2025.2, no Curso de Ciências da Computação, mas enquanto as aulas ainda não começaram, estou fazendo o curso profissionalizante da Google sobre Cibersegurança e já aprendi bastante sobre InfoSec, proteção de dados, avaliações de segurança, queries em SQL, comandos básicos Linux, tipos de ameaças, malwares, modelagem de ameaças, e outras coisas mais.
 
-Mas não é só isso que eu sei 😜, desde o ensino médio tenho familiaridade com Desenvolvimento Web e, portanto, conheço bem o tripé de linguagens mais famoso: HTML, CSS, e JavaScript. Além disso, aprendi o básico de C# e Python tentando abrir meu leque de linguagens mas, dei maior preferência ao curso da Google e acabei deixando-as mais de lado.  
+Mas não é só isso que eu sei 😜, desde o ensino médio tenho familiaridade com Desenvolvimento Web e, portanto, conheço bem o tripé de linguagens mais famoso: HTML, CSS, e JavaScript. Além disso, aprendi o básico de Python e SQL no curso de CIbersegurança da Google.
   
 
 <br/>  
