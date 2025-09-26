@@ -25,9 +25,9 @@ Mas não é só isso que eu sei 😜, desde o ensino médio tenho familiaridade 
 
 ## Projetos atuais:  
 
-- **Projeto JARVIS:** dê uma olhada [aqui] (https://github.com/DevMarcos1010/n8n-alexa-agent)
-- **Página Dinâmica de Login:** acompanhe [aqui] (https://github.com/DevMarcos1010/the-landpage)
-- **LinkedTree feito por mim:** veja clicando [aqui] (https://github.com/DevMarcos1010/linked-tree-clone)
+- **Projeto JARVIS:** dê uma olhada [aqui](https://github.com/DevMarcos1010/n8n-alexa-agent)
+- **Página Dinâmica de Login:** acompanhe [aqui](https://github.com/DevMarcos1010/the-landpage)
+- **LinkedTree feito por mim:** veja clicando [aqui](https://github.com/DevMarcos1010/linked-tree-clone)
 
 <br/>  
 <br/>  
