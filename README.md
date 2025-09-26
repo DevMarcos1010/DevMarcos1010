@@ -21,7 +21,15 @@ Fui aprovado na UFPB para o ano letivo 2025.2, no Curso de Ciências da Computa�
 
 Mas não é só isso que eu sei 😜, desde o ensino médio tenho familiaridade com Desenvolvimento Web e, portanto, conheço bem o tripé de linguagens mais famoso: HTML, CSS, e JavaScript. Além disso, aprendi o básico de Python e SQL no curso de CIbersegurança da Google.
   
+<br/>  
 
+## Projetos atuais:  
+
+- **Projeto JARVIS:** dê uma olhada [aqui] (https://github.com/DevMarcos1010/n8n-alexa-agent)
+- **Página Dinâmica de Login:** acompanhe [aqui] (https://github.com/DevMarcos1010/the-landpage)
+- **LinkedTree feito por mim:** veja clicando [aqui] (https://github.com/DevMarcos1010/linked-tree-clone)
+
+<br/>  
 <br/>  
 
 ## Resumindo:  
