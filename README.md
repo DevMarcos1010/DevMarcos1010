@@ -26,9 +26,9 @@
 
 <div align="center" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DevMarcos1010&show_icons=true&theme=tokyonight">
-<img src="https://streak-stats.demolab.com?user=DevMarcos1010&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMarcos1010&layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=DevMarcos1010&show_icons=true&theme=tokyonight" style="width: 40%">
+<img src="https://streak-stats.demolab.com?user=DevMarcos1010&theme=tokyonight" style="width: 40%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMarcos1010&layout=compact&theme=tokyonight" style="width: ">
 
 </div>
 
