@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/-Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white" /> -->
 
 </div>
 
