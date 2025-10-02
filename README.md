@@ -1,91 +1,71 @@
-## Marcos Guilherme💻👨‍💻  
-  
+# 👋 Olá, que bom ver você aqui! 
 
-<a href="https://instagram.com/m.g_quirino" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/DevMarcos1010" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/marcos-guilherme-gabriel-quirino" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
+🎓 Estudante de **Ciência da Computação** na UFPB (ingresso 2025.2)  
+🔐 Concluído: **Google Cybersecurity Professional Certificate**  
+💻 Apaixonado por programação, tecnologia e segurança da informação  
+🌱 Sempre em busca de aprender e compartilhar conhecimento  
 
+---
 
+## 🌐 Conecte-se comigo
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m.g_quirino)
+[![GitHub](https://img.shields.io/badge/-GitHub-%2324292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevMarcos1010)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcos-guilherme-gabriel-quirino)
 
-### Que bom te ver!  
-Sou um entusiasta de programação, tecnologia e matemática. Qualquer desafio é sempre bem-vindo, o importante é testar sempre aquilo que você sabe, e aprender mais sobre aquela solução que você não consegue pôr no IDE 😂
+---
 
-Fui aprovado na UFPB para o ano letivo 2025.2, no Curso de Ciências da Computação, mas enquanto as aulas ainda não começaram, estou fazendo o curso profissionalizante da Google sobre Cibersegurança e já aprendi bastante sobre InfoSec, proteção de dados, avaliações de segurança, queries em SQL, comandos básicos Linux, tipos de ameaças, malwares, modelagem de ameaças, e outras coisas mais.
+## 🚀 Projetos em Destaque  
 
-Mas não é só isso que eu sei 😜, desde o ensino médio tenho familiaridade com Desenvolvimento Web e, portanto, conheço bem o tripé de linguagens mais famoso: HTML, CSS, e JavaScript. Além disso, aprendi o básico de Python e SQL no curso de CIbersegurança da Google.
-  
-<br/>  
+🔹 [**Projeto JARVIS**](https://github.com/DevMarcos1010/n8n-alexa-agent) — Integração da Alexa com IA generativa.  
+🔹 [**Página Dinâmica de Login**](https://github.com/DevMarcos1010/the-landpage) — Uma página de login moderna e responsiva.  
+🔹 [**LinkedTree Clone**](https://github.com/DevMarcos1010/linked-tree-clone) — Alternativa personalizada ao Linktree.  
 
-## Projetos atuais:  
+---
 
-- **Projeto JARVIS:** dê uma olhada [aqui](https://github.com/DevMarcos1010/n8n-alexa-agent)
-- **Página Dinâmica de Login:** acompanhe [aqui](https://github.com/DevMarcos1010/the-landpage)
-- **LinkedTree feito por mim:** veja clicando [aqui](https://github.com/DevMarcos1010/linked-tree-clone)
+## 📊 Estatísticas do GitHub  
 
-<br/>  
-<br/>  
+<div align="center" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
 
-## Resumindo:  
-<br/>  
-<table border="0px"><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=DevMarcos1010&show_icons=true&theme=tokyonight">
+<img src="https://streak-stats.demolab.com?user=DevMarcos1010&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMarcos1010&layout=compact&theme=tokyonight">
 
+</div>
 
-- 🔭  Google Cybesecurity Course 
-  
+---
 
-- 🌱 Atualmente expandindo meus conhecimentos em Segurança da Informação com projetos práticos 
-  
+## 🛠️ Linguagens e Ferramentas  
 
-- ⚡ Fera de Ciências da Computação UFPB - 2025.2  
-  
+<div align="center" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
 
-- ❓ Qualquer coisa me chama lá no meu LinkedIn! 
+  <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/-Bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white" />
 
+</div>
 
-</td><td valign="top" width="50%">
+---
+
+## 🎯 Próximos Passos  
+
+- Aprofundar meus estudos em **Segurança da Informação** com projetos práticos  
+- Desenvolver novos projetos em **CyberSec e Automação**  
+- Criar um **portfólio online** para centralizar minhas criações  
+- Produzir conteúdo técnico e compartilhar aprendizados 🚀  
+
+---
 
 <div align="center">
-<img src="https://octodex.github.com/images/Fintechtocat.png" align="center" style="width: 50%" />
-</div>  
 
+✨ Construído com 💻, ☕ e muita curiosidade.  
+📩 Vamos conversar? Me chama no [LinkedIn](https://linkedin.com/in/marcos-guilherme-gabriel-quirino)!  
 
-</td></tr></table>  
-
-
-## Linguagens e Ferramentas  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-</div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=DevMarcso1010&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</div>
