@@ -20,7 +20,7 @@
 🔹 [**Página Dinâmica de Login**](https://github.com/DevMarcos1010/the-landpage) — Uma página de login moderna e responsiva.  
 🔹 [**LinkedTree Clone**](https://github.com/DevMarcos1010/linked-tree-clone) — Alternativa personalizada ao Linktree. 
 
-<div>
+<!-- <div>
   <a href="https://github.com/DevMarcos1010/n8n-alexa-agent">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevMarcos1010&theme=github_dark&bg_color=00000000&repo=n8n-alexa-agent" />
 </a>
@@ -30,7 +30,7 @@
   <a href="https://github.com/DevMarcos1010/linked-tree-clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevMarcos1010&theme=github_dark&bg_color=00000000&repo=linked-tree-clone" />
 </a>
-</div>
+</div> -->
 
 ---
 
