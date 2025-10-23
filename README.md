@@ -18,7 +18,19 @@
 
 🔹 [**Projeto JARVIS**](https://github.com/DevMarcos1010/n8n-alexa-agent) — Integração da Alexa com IA generativa.  
 🔹 [**Página Dinâmica de Login**](https://github.com/DevMarcos1010/the-landpage) — Uma página de login moderna e responsiva.  
-🔹 [**LinkedTree Clone**](https://github.com/DevMarcos1010/linked-tree-clone) — Alternativa personalizada ao Linktree.  
+🔹 [**LinkedTree Clone**](https://github.com/DevMarcos1010/linked-tree-clone) — Alternativa personalizada ao Linktree. 
+
+<div>
+  <a href="https://github.com/DevMarcos1010/n8n-alexa-agent">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevMarcos1010&theme=github_dark&bg_color=00000000&repo=n8n-alexa-agent" />
+</a>
+  <a href="https://github.com/DevMarcos1010/the-landpage">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevMarcos1010&theme=github_dark&bg_color=00000000&repo=the-landpage" />
+</a>
+  <a href="https://github.com/DevMarcos1010/linked-tree-clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevMarcos1010&theme=github_dark&bg_color=00000000&repo=linked-tree-clone" />
+</a>
+</div>
 
 ---
 
@@ -26,9 +38,8 @@
 
 <div align="center" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DevMarcos1010&show_icons=true&theme=tokyonight" style="width: 40%">
-<img src="https://streak-stats.demolab.com?user=DevMarcos1010&theme=tokyonight" style="width: 40%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMarcos1010&layout=compact&theme=tokyonight" style="width: ">
+<img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=DevMarcos1010&hide=issues,contribs&rank_icon=github&show_icons=true&theme=github_dark&bg_color=00000000"  >
+<img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMarcos1010&layout=compact&theme=github_dark&bg_color=00000000" />
 
 </div>
 
