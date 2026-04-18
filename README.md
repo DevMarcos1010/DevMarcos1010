@@ -1,6 +1,6 @@
 # 👋 Olá, que bom ver você aqui! 
 
-🎓 Estudante de **Ciência da Computação** na UFPB (ingresso 2025.2)  
+🎓 Estudante de **Ciência da Computação** na UFPB
 🔐 Concluído: **Google Cybersecurity Professional Certificate**  
 💻 Apaixonado por programação, tecnologia e segurança da informação  
 🌱 Sempre em busca de aprender e compartilhar conhecimento  
@@ -69,7 +69,6 @@
 
 - Aprofundar meus estudos em **Segurança da Informação** com projetos práticos  
 - Desenvolver novos projetos em **CyberSec e Automação**  
-- Criar um **portfólio online** para centralizar minhas criações  
 - Produzir conteúdo técnico e compartilhar aprendizados 🚀  
 
 ---
