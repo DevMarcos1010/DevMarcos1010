@@ -1,7 +1,7 @@
 # 👋 Olá, que bom ver você aqui! 
 
 🎓 Estudante de **Ciência da Computação** na UFPB
-🔐 Concluído: **Google Cybersecurity Professional Certificate**  
+🔐 Certificado: **Google Cybersecurity Professional Certificate**  
 💻 Apaixonado por programação, tecnologia e segurança da informação  
 🌱 Sempre em busca de aprender e compartilhar conhecimento  
 
