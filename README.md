@@ -1,51 +1,31 @@
-# 👋 Olá, que bom ver você aqui! 
+# 👋 Hi, nice to see you here! 
 
-🎓 Estudante de **Ciência da Computação** na UFPB
-🔐 Certificado: **Google Cybersecurity Professional Certificate**  
-💻 Apaixonado por programação, tecnologia e segurança da informação  
-🌱 Sempre em busca de aprender e compartilhar conhecimento  
+🎓 Computer Science Student at UFPB  
+🔐 Certificate: **Google Cybersecurity Professional Certificate**  
+💻 passionate about programming, tech and cybersecurity  
+🌱 Looking to learn and go to next challenge! 
 
 ---
+<div align="center">
 
-## 🌐 Conecte-se comigo
+## 🌐 Conect with me
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m.g_quirino)
 [![GitHub](https://img.shields.io/badge/-GitHub-%2324292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevMarcos1010)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcos-guilherme-gabriel-quirino)
-
----
-
-## 🚀 Projetos em Destaque  
-
-🔹 [**Projeto JARVIS**](https://github.com/DevMarcos1010/n8n-alexa-agent) — Integração da Alexa com IA generativa.  
-🔹 [**Página Dinâmica de Login**](https://github.com/DevMarcos1010/the-landpage) — Uma página de login moderna e responsiva.  
-🔹 [**LinkedTree Clone**](https://github.com/DevMarcos1010/linked-tree-clone) — Alternativa personalizada ao Linktree. 
-
-<!-- <div>
-  <a href="https://github.com/DevMarcos1010/n8n-alexa-agent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevMarcos1010&theme=github_dark&bg_color=00000000&repo=n8n-alexa-agent" />
-</a>
-  <a href="https://github.com/DevMarcos1010/the-landpage">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevMarcos1010&theme=github_dark&bg_color=00000000&repo=the-landpage" />
-</a>
-  <a href="https://github.com/DevMarcos1010/linked-tree-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevMarcos1010&theme=github_dark&bg_color=00000000&repo=linked-tree-clone" />
-</a>
-</div> -->
-
----
-
-## 📊 Estatísticas do GitHub  
-
-<div align="center" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-
-<img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=DevMarcos1010&hide=issues,contribs&rank_icon=github&show_icons=true&theme=github_dark&bg_color=00000000"  >
-<img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMarcos1010&layout=compact&theme=github_dark&bg_color=00000000" />
 
 </div>
 
 ---
 
-## 🛠️ Linguagens e Ferramentas  
+## 🚀 My projects  
+
+🔹 [**JARVIS Project**](https://github.com/DevMarcos1010/n8n-alexa-agent) — Alexa skill integration with Gen AI.  
+🔹 [**Dynamic Login page**](https://github.com/DevMarcos1010/the-landpage) — A modern login page.  
+🔹 [**LinkedTree Clone**](https://github.com/DevMarcos1010/linked-tree-clone) — My own version of linkedTree. 
+
+---
+
+## 🛠️ Languages & Tools 
 
 <div align="center" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
 
@@ -65,17 +45,17 @@
 
 ---
 
-## 🎯 Próximos Passos  
+## 🎯 Nexts steps 
 
-- Aprofundar meus estudos em **Segurança da Informação** com projetos práticos  
-- Desenvolver novos projetos em **CyberSec e Automação**  
-- Produzir conteúdo técnico e compartilhar aprendizados 🚀  
+- To deepen in my **Cybersecurity study** with more practical projects  
+- To develop new and cool cybersecurity and automation projects  
+- To create technical content and share my knowledge 🚀  
 
 ---
 
 <div align="center">
 
-✨ Construído com 💻, ☕ e muita curiosidade.  
-📩 Vamos conversar? Me chama no [LinkedIn](https://linkedin.com/in/marcos-guilherme-gabriel-quirino)!  
+✨ Build with 💻, ☕ and curiosity.  
+📩 Wanna chat? Call me on [LinkedIn](https://linkedin.com/in/marcos-guilherme-gabriel-quirino)!  
 
 </div>
