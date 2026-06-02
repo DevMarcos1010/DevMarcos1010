@@ -56,6 +56,6 @@
 <div align="center">
 
 ✨ Build with 💻, ☕ and curiosity.  
-📩 Wanna chat? Call me on [LinkedIn](https://linkedin.com/in/marcos-guilherme-gabriel-quirino)!  
+📩 Want to chat? Call me on [LinkedIn](https://linkedin.com/in/marcos-guilherme-gabriel-quirino)!  
 
 </div>
