@@ -20,8 +20,6 @@
 ## 🚀 My projects  
 
 🔹 [**JARVIS Project**](https://github.com/DevMarcos1010/n8n-alexa-agent) — Alexa skill integration with Gen AI.  
-🔹 [**Dynamic Login page**](https://github.com/DevMarcos1010/the-landpage) — A modern login page.  
-🔹 [**LinkedTree Clone**](https://github.com/DevMarcos1010/linked-tree-clone) — My own version of linkedTree. 
 
 ---
 
